@@ -192,7 +192,107 @@ C. La característica de resistencia según la temperatura del termistor se mues
 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/117959424/208022303-4e534657-a7ee-4047-b137-311165ebf345.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208022444-1a3013cb-b4c9-4096-92a9-0ea3b83bd9ea.png)
+
+Capitulo 8:
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. 
+
+![image](https://user-images.githubusercontent.com/117959424/208022578-24540c92-b603-40e8-8b69-791503da8da1.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/117959424/208022618-d66ca3ca-d187-40d8-b520-52acf8066665.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208022711-09179157-4d38-46b7-91dc-0b1d08261dd5.png)
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/117959424/208022749-b07efc75-8be1-4c9f-88ed-cece599fcc8b.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208023433-0d11232c-b2c4-42f3-850d-ff1afcef05be.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/117959424/208023473-a3e5e44d-caff-466b-ac65-d468d0c8b0d2.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208023862-635bfe40-6113-40e0-8388-455400382732.png)
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117959424/208024038-d41541df-60e3-4e9c-9f62-1aeee1c5bbc0.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208024452-c51a8725-6ba0-4bc4-ba0f-5fa923507fed.png)
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/117959424/208024566-195e7c60-f15f-4dc4-a568-1c6aca4a3246.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208024592-1a802fb9-2522-4c32-b41f-3ea84a1c129c.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/117959424/208024628-6e3e41d1-4677-4984-9158-b423219f9080.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208025215-9af14ced-6265-49b8-adbf-de3a1a8296f7.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117959424/208025341-615c7a06-06e7-4404-ad71-d75a3dc7b84d.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208025592-e79f73a3-7418-4526-bb9d-4d61678a6e77.png)
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+
+![image](https://user-images.githubusercontent.com/117959424/208025926-eb721142-e6be-4077-805a-70316a306be9.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
+R8  8 kÆ.
+
+![image](https://user-images.githubusercontent.com/117959424/208026220-dd706b53-ac02-42d9-91e2-6d162a5f3913.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/117959424/208026274-d982c9f9-b47e-4863-bc0f-68bf32b2f2e4.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208026471-30b85153-a46f-461d-a9a4-0a7f9c44ced8.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/117959424/208026557-191ba6b0-c976-493e-a21d-f565eae31981.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208026712-9200a9a1-87ec-4556-b969-8e6f959e306e.png)
+
+34. En la figura 8-88, convierta cada red delta en una red Y
+
+![image](https://user-images.githubusercontent.com/117959424/208026791-51085908-ef7a-4d66-8598-fd3607a076a5.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208026922-e1b69854-c90c-429e-98d1-646777a980e8.png)
+
+# 4.	VIDEO
+
+
+
+# 5.	CONCLUSIONES
+
+-) Se determina que la resistencia es fundamental en el desarrollo de un circuito electrico.
+
+-) Se concluye que los resistores no solo se pueden conectar en serie y paralelo, sino en forma delta y "y".
+
+
+# 6.	Bibliografía
+
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
+
+# RUBRICA
+
+![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
+
+
+
 
 
 
