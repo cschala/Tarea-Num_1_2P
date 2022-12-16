@@ -14,6 +14,7 @@ OBJETIVO GENERAL:
 Estudiar el capitulo 7 y 8 del libro de Floyd para comprender el comportamiento de  los componentes y sus formas de conexion en los circuitos en serie y paralelo.
 
 OBJETIVOS ESPECIFICOS:
+
 -Analizar la forma de conexion de los circuitos en serie y paralelo para poder identificar sus formas de conectarse.
 
 -Interpretar la forma de colocar las resistencias para su posterior analisis en un circuito serie/paralelo.
@@ -33,4 +34,24 @@ OBJETIVOS ESPECIFICOS:
 ![image](https://user-images.githubusercontent.com/117959424/207997145-441f9618-7b9c-4bbd-b79a-db70b6f70384.png)
 
 ![image](https://user-images.githubusercontent.com/117959424/207998112-cc57a23b-25a0-476c-8491-059a6340fd78.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208001450-ead60968-4b3a-4526-aab1-4681fe745d92.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208002448-607c2aab-795b-4c93-b75d-71a63af470a1.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208003379-7f460eba-d7c7-439b-a005-38c680f241e0.png)
+
+![image](https://user-images.githubusercontent.com/117959424/208004904-170f9afe-51fe-49c1-8c4f-448f39cf9dce.png)
+
+# 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+
+
+
+
+(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
 
